@@ -1,0 +1,1 @@
+# JakubSowinski_RSI
