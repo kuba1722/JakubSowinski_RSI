@@ -1,1 +1,1 @@
-# JakubSowinski_RSI
+Projekty są w oddzielnych gałęziach
