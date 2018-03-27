@@ -1,10 +1,12 @@
-public abstract class Pojazd  implements Print{
-    String rejestracja;
-    short rok;
-    int przebieg;
-    boolean czyWypozyczone;
-    String model;
-    double silnik;
+
+public abstract class Pojazd  implements Print {
+
+    public String rejestracja;
+   public short rok;
+    public int przebieg;
+    public boolean czyWypozyczone;
+    public String model;
+    public double silnik;
 
 }
 
