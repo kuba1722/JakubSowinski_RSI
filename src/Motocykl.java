@@ -1,4 +1,4 @@
-public class Motocykl  extends Pojazd implements Print{
+public class Motocykl  extends Pojazd implements Print {
 
 
     Motocykl(String rej, short r, int prz, boolean czy, String mod, double sil ){
